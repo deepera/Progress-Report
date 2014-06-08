@@ -1,0 +1,14 @@
+Period: 20140605 - 20140607
+Name: Xianjun GUO
+
+
+Planned target:
+1. Coursera : Data Scientist Toolbox Lesson 1
+
+
+Actual progress:
+1. [100%] Done
+
+
+Remarks:
+1. The materials about the usage of github is not enough in the cousera course. It would be better to read the documents on github website.

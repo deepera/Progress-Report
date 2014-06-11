@@ -1,0 +1,25 @@
+Period: 20140608 - 20140611
+Name: Hao LIU
+
+
+Planned target:
+1. study cuda-convnet
+   1.1 trained sample on CIFAR-10 datasets
+   1.2 studied cnn layers setting of winner of ILSVRC 2012
+2. Week one of Data Scientist's Toolbox (JHU data science series courses)
+
+
+Actual progress:
+1.  
+ 1.1 [100%]run successed, learning curve provided in the dir
+ 1.2 [80%]get the idea of overall setting of Alex Krizhevsky's result
+
+2. [100%] Done
+
+
+Remarks:
+1. 
+  1.1 last time I mis-understand parameters that output.
+      Still do not know why the curve fluctuate heavily after 80th epoch.
+  1.2 I intend to wirte a layer setting file next step, then maybe I will find something I mis-understand.
+

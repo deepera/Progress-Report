@@ -1,4 +1,4 @@
-## Period: 20140608 - 20140611
+## Period: 20140612 - 20140618
 ## Name: Xu Han
 
 ### Planned target:

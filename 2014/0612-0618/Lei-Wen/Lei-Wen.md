@@ -1,5 +1,5 @@
 ## Period: 20140608 - 20140611
-## Name: Lei WEN
+## Name: Lei Wen
 
 ### Planned target:
 1. Map-matching:

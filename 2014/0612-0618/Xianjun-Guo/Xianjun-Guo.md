@@ -1,5 +1,5 @@
-## Period:20140608 - 20140611
-## Name:Xianjun GUO
+## Period: 20140608 - 20140611
+## Name: Xianjun GUO
 
 ### Planned target:
 1. Reading source code of isolatedSpeechRecognition and make a PPT explaining it.

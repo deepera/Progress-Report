@@ -9,7 +9,7 @@
 
 ### Actual progress:
 1.   [0%] no further updates have been made
-2.   [10%] still watching Week 1 videos
+2.   [20%] finish watching Week 1 videos
 3.   [100%] everyone finished their coursera exercises this week and I updated all source codes to a folder named "R-Programming-Assignments" in my github account
 4.   [100%] all five accounts survive and the best one is ranking 163
 
@@ -17,3 +17,4 @@
 1.   Saving all five acounts is a time-consuming task, which took me at least 20 working hours
 2.   Spent one day in HK Ocean Park
 3.   Attended two birthday party
+4.   Settled down in Nansha, ready to work

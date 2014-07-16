@@ -1,4 +1,4 @@
-## Period: 20140703 - 20140709
+## Period: 20140710 - 20140716
 ## Name: Hao Liu
 
 ### Planned target:

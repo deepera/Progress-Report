@@ -11,6 +11,5 @@
 2.   [100%] finish the courses and project
 3.   [ 20%] finish 110 pages out of 560. 
 
-
 ### Remarks:
 1.   Assistant Hao to transfer file into Server.

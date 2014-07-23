@@ -2,7 +2,7 @@
 ## Name: Hao Liu
 
 ### Planned target:
-Hao:
+
 1. Repair server MIC-GPU, purchase a GPU instance from Amazon, and apply Nvidia cluster from ImageNet
 2. Contiune running and tuning ILSVRC 2012 model
 3. Coursera: Exploratory Data Analysis (Week 1-2)

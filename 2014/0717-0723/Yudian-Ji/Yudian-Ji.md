@@ -1,5 +1,5 @@
 ## Period: 20140717 - 20140723
-## Name: Xibo Zhou
+## Name: Yudian Ji
 
 ### Planned target:
 1. Learning how to use Git and Github to update progress report

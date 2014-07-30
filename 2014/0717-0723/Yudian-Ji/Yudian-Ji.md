@@ -1,20 +1,15 @@
-#mdtest
+## Period: 20140717 - 20140723
+## Name: Xibo Zhou
 
-##mdtest
+### Planned target:
+1. Learning how to use Git and Github to update progress report
+2. Composing patent technical report based on Xiaoying's thesis
+3. Reading 5 papers related to trajectory compression
 
+### Actual progress:
+1. [50%] 
+2. [50%]
+3. [20%] 
 
-
-
-
-
-###mdtest
-
-1.saiojdiosajd  
-2.disoahdias  
-3.doasijdoaisj
-3.sb
-####mdtest
-sudhuoiashdujshkfjhdaidjfljdskijioasjdioj
-1.liuhaohaoren
-2.liuhaohuairen
-3.liuhaojianren
+### Remarks: 
+No remarks.

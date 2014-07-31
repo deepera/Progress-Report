@@ -2,12 +2,12 @@
 ## Name: Hao Liu
 
 ### Planned target: 
-Hao: 
+Hao:  
 1. Contiune running and tuning ILSVRC 2012 model  
 2. Try out cuda-convnet2 and other deep learning codes  
 3. Coursera: Exploratory Data Analysis (Week 3-4)  
 4. Paper reading:  
-        One Weird Trick for Parallelizing Convolutional Neural Networks  
+   	One Weird Trick for Parallelizing Convolutional Neural Networks  
 
 
 ### Actual progress:
